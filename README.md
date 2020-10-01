@@ -1,4 +1,4 @@
-# FacePlusPlus Python SDK
+# FacePlusPlus Python SDK...
 
 * 集成运行文档请查看目录下的文件`Python SDK demo 使用文档.pdf` 
 
